@@ -11,6 +11,7 @@
 		CA013DFA2B35A4A400A74146 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA013DF92B35A4A400A74146 /* ContentView.swift */; };
 		CA013DFC2B35A4A600A74146 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA013DFB2B35A4A600A74146 /* Assets.xcassets */; };
 		CA013DFF2B35A4A600A74146 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA013DFE2B35A4A600A74146 /* Preview Assets.xcassets */; };
+		CA65B91C2B4EE08900B70AA5 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA65B91B2B4EE08900B70AA5 /* SplashView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CA013DFB2B35A4A600A74146 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA013DFE2B35A4A600A74146 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CA013E052B35A52800A74146 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		CA65B91B2B4EE08900B70AA5 /* SplashView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				CA013E052B35A52800A74146 /* Info.plist */,
 				CA013DF72B35A4A400A74146 /* CoffeePointApp.swift */,
+				CA65B91B2B4EE08900B70AA5 /* SplashView.swift */,
 				CA013DF92B35A4A400A74146 /* ContentView.swift */,
 				CA013DFB2B35A4A600A74146 /* Assets.xcassets */,
 				CA013DFD2B35A4A600A74146 /* Preview Content */,
@@ -142,6 +145,7 @@
 			files = (
 				CA013DFA2B35A4A400A74146 /* ContentView.swift in Sources */,
 				CA013DF82B35A4A400A74146 /* CoffeePointApp.swift in Sources */,
+				CA65B91C2B4EE08900B70AA5 /* SplashView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

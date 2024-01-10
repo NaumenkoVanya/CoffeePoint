@@ -5,11 +5,7 @@
 	<key>UILaunchScreen</key>
 	<dict>
 		<key>UIColorName</key>
-		<string>Color</string>
-		<key>UIImageName</key>
-		<string>coffe</string>
-		<key>UIImageRespectsSafeAreaInsets</key>
-		<true/>
+		<string>DarkBlue</string>
 	</dict>
 </dict>
 </plist>
